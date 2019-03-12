@@ -1,2 +1,2 @@
 # rustagishubhi.github.io
-My Resume Webbsite
+My Resume Website
