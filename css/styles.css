@@ -2,3 +2,42 @@ body{
 	background-color: #999999;
 	color: #343a40ff;
 }
+
+.descript{
+	float: right; 
+	text-align: center; 
+	padding-top: 5%; 
+	height: 70%;
+}
+
+.title-image{
+	width: 100%; 
+	border-radius: 50%;
+}
+
+.right-content, .left-content {
+	float:left;
+	display:block;
+	width:45%;
+	padding:1% 2%;
+}
+.left-content {
+	border-right:5px dotted #343a40;	
+	text-align:right;
+}
+.right-content{
+	width: 55%; 
+}
+.left-content h6 {
+	margin:1px 2px 2px;
+	/*font-size: 80%;*/
+}
+.right-content p {
+	margin:1px 2px 2px;
+}
+.left-content .more-padding {
+  padding-right:100px;
+}
+.right-content .more-padding {
+  padding-left:100px;
+}
