@@ -72,5 +72,8 @@ ul{
 
 #skills .left-content, #skills .right-content{
 	width: 50%;
-	margin: 5px 2px 2px;
+}
+
+#skills .left-content p, #skills .right-content p{
+	margin-top: 3%;
 }
